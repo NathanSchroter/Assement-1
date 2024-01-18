@@ -1,0 +1,15 @@
+.rightSide{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  row-gap: 5rem;
+  column-gap: 8rem;
+}
+.container{
+  display: flex;
+gap: 20rem;
+}
+.rightSide h3 {
+  display: flex;
+  justify-content: flex-end;
+  padding-left: 10px;
+}

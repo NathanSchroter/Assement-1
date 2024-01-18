@@ -1,0 +1,15 @@
+.human{
+    width: 80px;
+    height: 80px;
+
+
+
+}
+.sidenavigation p{
+    margin: 10px;
+    
+}
+.sidenavigation{
+    border-right: 5px solid blue;
+    padding-right: 40px;
+}
